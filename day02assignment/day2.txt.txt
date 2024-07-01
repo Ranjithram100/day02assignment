@@ -1,0 +1,13 @@
+1. write a blog on the difference between document and window objects.
+
+ANS: Document : * The document represents the DOM that is currently loaded in the window.
+                
+                * A document holds the information like the document element like html,forms etc.
+
+                * Basically document is HTML page inside it.
+    
+window objects: * It represents the current browsing context in the web page.
+
+                * It holds information like window location,history, screen,document etc.
+
+                * Basically window is your browsers window.
