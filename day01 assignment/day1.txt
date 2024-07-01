@@ -1,7 +1,13 @@
 1. write the difference between HTTP/1.1 to HTTP/2
-ANS: * HTTP/1.1 loads resources one after the other whereas HTTP/2 loads the resourses in a single stetch.
-     * HTTP/2 is faster than HTTP/1.1 
+ANS: * HTTP/1.1 loads resources one after the other.
+     * HTTP/2 loads the resourses in a single stetch.
+
+     * HTTP/1.1 is slow in loading the datas.
+     * HTTP/2 is faster compared to HTTP/1.1.
+
+     *HTTP/1.1 compresses data by itself.
+     *HTTP/2 uses HPACK for data compression.
 
 2. Write a blog about objects and its internal representation in Javascript
 ANS : objects are datatypes in javascript that is primitive datatype.The datatype can be string ,boolean etc.object can contains the
-      value in the form of key : value pair.
+      value in the form of key : value pair.It helps and forms the building blocks for modern javascript.
